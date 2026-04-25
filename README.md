@@ -16,7 +16,7 @@ BCA(AI/DS) Student | Data Analysis & Artificial Intelligence
 
 ## Connect With Me
 -LinkdIn:
-ayushi-pokhriyal-5b76bb361
+www.linkedin.com/in/ayushi-pokhriyal-5b76bb361
 <!--
 **ayushiiP07/ayushiiP07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
